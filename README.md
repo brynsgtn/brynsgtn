@@ -18,7 +18,7 @@ I'm a career shifter transitioning from a background in Business Administration,
 🎓 **Education:**
 - Pursuing a Bachelor's degree in Information Technology (BSIT) at Mapua University
 - Master's in Business Administration (MBA), 2022
-- Bachelor of Science in Business Administration, major in Financial Management, 2016
+- Bachelor of Science in Business Administration (BSBA), major in Financial Management, 2016
 
 🏆 **Certifications:**
 - **Full-stack Development:** Certified in Full-stack Web Development by Zuitt Coding Bootcamp
