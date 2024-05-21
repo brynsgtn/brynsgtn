@@ -1,4 +1,4 @@
-👋 Hi there! I'm Bryan Suguitan
+👋 Hi there! I'm **Bryan Suguitan**
 
 🔄 **Career Shifter | Aspiring Software Developer**
 
