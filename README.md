@@ -1,6 +1,6 @@
 👋 Hi there! I'm **Bryan Suguitan**
 
-🔄 **Career Shifter | Aspiring Full-Stack Developer**
+🔄 **Career Shifter | Full-Stack Developer**
 
 🔍 **About Me:**
 I'm a career shifter transitioning from a background in Business Administration, with a focus on Financial Management, to the dynamic field of web development. My journey is fueled by a passion for technology, problem-solving, and continuous learning.
